@@ -1,0 +1,101 @@
+title,description,protein,carbs,fats,calories,category
+Protein Pancakes,"Fluffy pancakes made with protein powder, oats, and bananas.",20,40,10,350,Breakfast
+Avocado Toast,"Whole grain toast topped with mashed avocado, salt, and pepper.",6,28,15,300,Breakfast
+Greek Yogurt Parfait,"Layers of Greek yogurt, honey, granola, and mixed berries.",15,45,8,350,Breakfast
+Chicken Salad,"Grilled chicken breast with mixed greens, cherry tomatoes, and a light vinaigrette.",30,10,15,300,Lunch
+Quinoa Bowl,"Quinoa with black beans, corn, avocado, and a lime dressing.",12,40,10,320,Lunch
+Turkey Wrap,"Whole wheat wrap with turkey, spinach, and a mustard spread.",25,30,8,320,Lunch
+Grilled Salmon,Grilled salmon fillet with a side of steamed broccoli and quinoa.,25,20,15,400,Dinner
+Stir-Fry Vegetables,Mixed vegetables stir-fried with tofu and a soy sauce glaze.,15,30,10,250,Dinner
+Chicken Stir-Fry,"Chicken breast stir-fried with bell peppers, broccoli, and soy sauce.",30,20,10,350,Dinner
+Protein Shake,"A shake made with protein powder, almond milk, and a banana.",25,30,5,250,Snack
+Hummus and Veggies,"Hummus served with sliced bell peppers, carrots, and cucumber.",7,20,10,180,Snack
+Apple and Peanut Butter,Sliced apple with a serving of natural peanut butter.,4,25,15,250,Snack
+Protein Pancakes 1,"Fluffy pancakes made with protein powder, oats, and bananas 1.",21,41,11,360,Breakfast
+Avocado Toast 1,"Whole grain toast topped with mashed avocado, salt, and pepper 1.",7,29,16,310,Breakfast
+Greek Yogurt Parfait 1,"Layers of Greek yogurt, honey, granola, and mixed berries 1.",16,46,9,360,Breakfast
+Chicken Salad 1,"Grilled chicken breast with mixed greens, cherry tomatoes, and a light vinaigrette 1.",31,11,16,310,Lunch
+Quinoa Bowl 1,"Quinoa with black beans, corn, avocado, and a lime dressing 1.",13,41,11,330,Lunch
+Turkey Wrap 1,"Whole wheat wrap with turkey, spinach, and a mustard spread 1.",26,31,9,330,Lunch
+Grilled Salmon 1,Grilled salmon fillet with a side of steamed broccoli and quinoa 1.,26,21,16,410,Dinner
+Stir-Fry Vegetables 1,Mixed vegetables stir-fried with tofu and a soy sauce glaze 1.,16,31,11,260,Dinner
+Chicken Stir-Fry 1,"Chicken breast stir-fried with bell peppers, broccoli, and soy sauce 1.",31,21,11,360,Dinner
+Protein Shake 1,"A shake made with protein powder, almond milk, and a banana 1.",26,31,6,260,Snack
+Hummus and Veggies 1,"Hummus served with sliced bell peppers, carrots, and cucumber 1.",8,21,11,190,Snack
+Apple and Peanut Butter 1,Sliced apple with a serving of natural peanut butter 1.,5,26,16,260,Snack
+Protein Pancakes 2,"Fluffy pancakes made with protein powder, oats, and bananas 2.",22,42,12,370,Breakfast
+Avocado Toast 2,"Whole grain toast topped with mashed avocado, salt, and pepper 2.",8,30,17,320,Breakfast
+Greek Yogurt Parfait 2,"Layers of Greek yogurt, honey, granola, and mixed berries 2.",17,47,10,370,Breakfast
+Chicken Salad 2,"Grilled chicken breast with mixed greens, cherry tomatoes, and a light vinaigrette 2.",32,12,17,320,Lunch
+Quinoa Bowl 2,"Quinoa with black beans, corn, avocado, and a lime dressing 2.",14,42,12,340,Lunch
+Turkey Wrap 2,"Whole wheat wrap with turkey, spinach, and a mustard spread 2.",27,32,10,340,Lunch
+Grilled Salmon 2,Grilled salmon fillet with a side of steamed broccoli and quinoa 2.,27,22,17,420,Dinner
+Stir-Fry Vegetables 2,Mixed vegetables stir-fried with tofu and a soy sauce glaze 2.,17,32,12,270,Dinner
+Chicken Stir-Fry 2,"Chicken breast stir-fried with bell peppers, broccoli, and soy sauce 2.",32,22,12,370,Dinner
+Protein Shake 2,"A shake made with protein powder, almond milk, and a banana 2.",27,32,7,270,Snack
+Hummus and Veggies 2,"Hummus served with sliced bell peppers, carrots, and cucumber 2.",9,22,12,200,Snack
+Apple and Peanut Butter 2,Sliced apple with a serving of natural peanut butter 2.,6,27,17,270,Snack
+Protein Pancakes 3,"Fluffy pancakes made with protein powder, oats, and bananas 3.",23,43,13,380,Breakfast
+Avocado Toast 3,"Whole grain toast topped with mashed avocado, salt, and pepper 3.",9,31,18,330,Breakfast
+Greek Yogurt Parfait 3,"Layers of Greek yogurt, honey, granola, and mixed berries 3.",18,48,11,380,Breakfast
+Chicken Salad 3,"Grilled chicken breast with mixed greens, cherry tomatoes, and a light vinaigrette 3.",33,13,18,330,Lunch
+Quinoa Bowl 3,"Quinoa with black beans, corn, avocado, and a lime dressing 3.",15,43,13,350,Lunch
+Turkey Wrap 3,"Whole wheat wrap with turkey, spinach, and a mustard spread 3.",28,33,11,350,Lunch
+Grilled Salmon 3,Grilled salmon fillet with a side of steamed broccoli and quinoa 3.,28,23,18,430,Dinner
+Stir-Fry Vegetables 3,Mixed vegetables stir-fried with tofu and a soy sauce glaze 3.,18,33,13,280,Dinner
+Chicken Stir-Fry 3,"Chicken breast stir-fried with bell peppers, broccoli, and soy sauce 3.",33,23,13,380,Dinner
+Protein Shake 3,"A shake made with protein powder, almond milk, and a banana 3.",28,33,8,280,Snack
+Hummus and Veggies 3,"Hummus served with sliced bell peppers, carrots, and cucumber 3.",10,23,13,210,Snack
+Apple and Peanut Butter 3,Sliced apple with a serving of natural peanut butter 3.,7,28,18,280,Snack
+Protein Pancakes 4,"Fluffy pancakes made with protein powder, oats, and bananas 4.",24,44,14,390,Breakfast
+Avocado Toast 4,"Whole grain toast topped with mashed avocado, salt, and pepper 4.",10,32,19,340,Breakfast
+Greek Yogurt Parfait 4,"Layers of Greek yogurt, honey, granola, and mixed berries 4.",19,49,12,390,Breakfast
+Chicken Salad 4,"Grilled chicken breast with mixed greens, cherry tomatoes, and a light vinaigrette 4.",34,14,19,340,Lunch
+Quinoa Bowl 4,"Quinoa with black beans, corn, avocado, and a lime dressing 4.",16,44,14,360,Lunch
+Turkey Wrap 4,"Whole wheat wrap with turkey, spinach, and a mustard spread 4.",29,34,12,360,Lunch
+Grilled Salmon 4,Grilled salmon fillet with a side of steamed broccoli and quinoa 4.,29,24,19,440,Dinner
+Stir-Fry Vegetables 4,Mixed vegetables stir-fried with tofu and a soy sauce glaze 4.,19,34,14,290,Dinner
+Chicken Stir-Fry 4,"Chicken breast stir-fried with bell peppers, broccoli, and soy sauce 4.",34,24,14,390,Dinner
+Protein Shake 4,"A shake made with protein powder, almond milk, and a banana 4.",29,34,9,290,Snack
+Hummus and Veggies 4,"Hummus served with sliced bell peppers, carrots, and cucumber 4.",11,24,14,220,Snack
+Apple and Peanut Butter 4,Sliced apple with a serving of natural peanut butter 4.,8,29,19,290,Snack
+Protein Pancakes 5,"Fluffy pancakes made with protein powder, oats, and bananas 5.",25,45,15,400,Breakfast
+Avocado Toast 5,"Whole grain toast topped with mashed avocado, salt, and pepper 5.",11,33,20,350,Breakfast
+Greek Yogurt Parfait 5,"Layers of Greek yogurt, honey, granola, and mixed berries 5.",20,50,13,400,Breakfast
+Chicken Salad 5,"Grilled chicken breast with mixed greens, cherry tomatoes, and a light vinaigrette 5.",35,15,20,350,Lunch
+Quinoa Bowl 5,"Quinoa with black beans, corn, avocado, and a lime dressing 5.",17,45,15,370,Lunch
+Turkey Wrap 5,"Whole wheat wrap with turkey, spinach, and a mustard spread 5.",30,35,13,370,Lunch
+Grilled Salmon 5,Grilled salmon fillet with a side of steamed broccoli and quinoa 5.,30,25,20,450,Dinner
+Stir-Fry Vegetables 5,Mixed vegetables stir-fried with tofu and a soy sauce glaze 5.,20,35,15,300,Dinner
+Chicken Stir-Fry 5,"Chicken breast stir-fried with bell peppers, broccoli, and soy sauce 5.",35,25,15,400,Dinner
+Protein Shake 5,"A shake made with protein powder, almond milk, and a banana 5.",30,35,10,300,Snack
+Hummus and Veggies 5,"Hummus served with sliced bell peppers, carrots, and cucumber 5.",12,25,15,230,Snack
+Apple and Peanut Butter 5,Sliced apple with a serving of natural peanut butter 5.,9,30,20,300,Snack
+Protein Pancakes 6,"Fluffy pancakes made with protein powder, oats, and bananas 6.",26,46,16,410,Breakfast
+Avocado Toast 6,"Whole grain toast topped with mashed avocado, salt, and pepper 6.",12,34,21,360,Breakfast
+Greek Yogurt Parfait 6,"Layers of Greek yogurt, honey, granola, and mixed berries 6.",21,51,14,410,Breakfast
+Chicken Salad 6,"Grilled chicken breast with mixed greens, cherry tomatoes, and a light vinaigrette 6.",36,16,21,360,Lunch
+Quinoa Bowl 6,"Quinoa with black beans, corn, avocado, and a lime dressing 6.",18,46,16,380,Lunch
+Turkey Wrap 6,"Whole wheat wrap with turkey, spinach, and a mustard spread 6.",31,36,14,380,Lunch
+Grilled Salmon 6,Grilled salmon fillet with a side of steamed broccoli and quinoa 6.,31,26,21,460,Dinner
+Stir-Fry Vegetables 6,Mixed vegetables stir-fried with tofu and a soy sauce glaze 6.,21,36,16,310,Dinner
+Chicken Stir-Fry 6,"Chicken breast stir-fried with bell peppers, broccoli, and soy sauce 6.",36,26,16,410,Dinner
+Protein Shake 6,"A shake made with protein powder, almond milk, and a banana 6.",31,36,11,310,Snack
+Hummus and Veggies 6,"Hummus served with sliced bell peppers, carrots, and cucumber 6.",13,26,16,240,Snack
+Apple and Peanut Butter 6,Sliced apple with a serving of natural peanut butter 6.,10,31,21,310,Snack
+Protein Pancakes 7,"Fluffy pancakes made with protein powder, oats, and bananas 7.",27,47,17,420,Breakfast
+Avocado Toast 7,"Whole grain toast topped with mashed avocado, salt, and pepper 7.",13,35,22,370,Breakfast
+Greek Yogurt Parfait 7,"Layers of Greek yogurt, honey, granola, and mixed berries 7.",22,52,15,420,Breakfast
+Chicken Salad 7,"Grilled chicken breast with mixed greens, cherry tomatoes, and a light vinaigrette 7.",37,17,22,370,Lunch
+Quinoa Bowl 7,"Quinoa with black beans, corn, avocado, and a lime dressing 7.",19,47,17,390,Lunch
+Turkey Wrap 7,"Whole wheat wrap with turkey, spinach, and a mustard spread 7.",32,37,15,390,Lunch
+Grilled Salmon 7,Grilled salmon fillet with a side of steamed broccoli and quinoa 7.,32,27,22,470,Dinner
+Stir-Fry Vegetables 7,Mixed vegetables stir-fried with tofu and a soy sauce glaze 7.,22,37,17,320,Dinner
+Chicken Stir-Fry 7,"Chicken breast stir-fried with bell peppers, broccoli, and soy sauce 7.",37,27,17,420,Dinner
+Protein Shake 7,"A shake made with protein powder, almond milk, and a banana 7.",32,37,12,320,Snack
+Hummus and Veggies 7,"Hummus served with sliced bell peppers, carrots, and cucumber 7.",14,27,17,250,Snack
+Apple and Peanut Butter 7,Sliced apple with a serving of natural peanut butter 7.,11,32,22,320,Snack
+Protein Pancakes 8,"Fluffy pancakes made with protein powder, oats, and bananas 8.",28,48,18,430,Breakfast
+Avocado Toast 8,"Whole grain toast topped with mashed avocado, salt, and pepper 8.",14,36,23,380,Breakfast
+Greek Yogurt Parfait 8,"Layers of Greek yogurt, honey, granola, and mixed berries 8.",23,53,16,430,Breakfast
+Chicken Salad 8,"Grilled chicken breast with mixed greens, cherry tomatoes, and a light vinaigrette 8.",38,18,23,380,Lunch
